@@ -65,7 +65,7 @@ function timer_restart()
 	$('.pg').addClass('hide');
 	$('#timer').removeClass('hide');
 	
-	timer = 15;
+	timer = 30;
 	
 	$('#timer').html('15 s');
 }
